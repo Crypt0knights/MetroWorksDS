@@ -14,11 +14,11 @@ c++11
 ### Dependencies
 
 Please install these before running the project.
-[graphviz](http://www.graphviz.org/)    : sudo apt-get install graphviz
-[fim](http://manpages.ubuntu.com/manpages/xenial/man1/fim.1.html)         : sudo apt-get install fim
-[zenity](https://packages.ubuntu.com/trusty/gnome/zenity)    : sudo apt-get install zenity
-[sl](http://manpages.ubuntu.com/manpages/trusty/man6/sl.6.html)          : sudo apt-get install sl
-[notify-send](http://manpages.ubuntu.com/manpages/xenial/man1/notify-send.1.html) : sudo apt-get install notify-osd
+[graphviz](http://www.graphviz.org/)    : sudo apt-get install graphviz <br />
+[fim](http://manpages.ubuntu.com/manpages/xenial/man1/fim.1.html)         : sudo apt-get install fim <br />
+[zenity](https://packages.ubuntu.com/trusty/gnome/zenity)    : sudo apt-get install zenity <br />
+[sl](http://manpages.ubuntu.com/manpages/trusty/man6/sl.6.html)          : sudo apt-get install sl <br />
+[notify-send](http://manpages.ubuntu.com/manpages/xenial/man1/notify-send.1.html) : sudo apt-get install notify-osd <br />
 
 ## Built With
 
