@@ -5,11 +5,9 @@ An application meant for linux users, It helps you find & visualize the Shortest
 
 ## Getting Started
 
-Compile metroworks.cpp using -std=c++11 flag.
-
 ### Prerequisites
 
-c++11
+c++11 : compile metroworks.cpp using -std=c++11 flag.
 
 ### Dependencies
 
