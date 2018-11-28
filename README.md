@@ -9,7 +9,7 @@ Compile metroworks.cpp using -std=c++11 flag.
 
 ### Prerequisites
 
-C++11
+c++11
 
 Dependencies
 ```
