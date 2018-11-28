@@ -13,7 +13,7 @@ c++11
 
 ### Dependencies
 
-Please install these before running the project.
+Please install these before running the project. <br />
 [graphviz](http://www.graphviz.org/)    : sudo apt-get install graphviz <br />
 [fim](http://manpages.ubuntu.com/manpages/xenial/man1/fim.1.html)         : sudo apt-get install fim <br />
 [zenity](https://packages.ubuntu.com/trusty/gnome/zenity)    : sudo apt-get install zenity <br />
