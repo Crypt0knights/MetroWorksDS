@@ -27,7 +27,7 @@ Please install these before running the project. <br />
 ## Authors
 
 * **Mayank Singh** - [code-monk08](https://github.com/code-monk08)
-* **Siddhant Trivedi** - [sidntrivedi012](https://github.com/sidntrivedi012)
+* **Siddhant N Trivedi** - [sidntrivedi012](https://github.com/sidntrivedi012)
 * **Aman Verma** - [nightwarrior-xxx](https://github.com/nightwarrior-xxx)
 * **Aditya Raushan** - [araushan](https://github.com/araushan)
 
