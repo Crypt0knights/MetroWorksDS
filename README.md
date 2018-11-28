@@ -23,19 +23,12 @@ notify-send
 ### Installing
 
 Please install these before running the project.
-
-[graphviz](http://www.graphviz.org/)
-[fim](http://manpages.ubuntu.com/manpages/xenial/man1/fim.1.html)
-[zenity](https://packages.ubuntu.com/trusty/gnome/zenity)
-[sl](http://manpages.ubuntu.com/manpages/trusty/man6/sl.6.html)
-[notify-send](http://manpages.ubuntu.com/manpages/xenial/man1/notify-send.1.html)
-
 ```
-Graphviz    : sudo apt-get install graphviz
-fim         : sudo apt-get install fim
-zenity      : sudo apt-get install zenity
-sl          : sudo apt-get install sl
-notify-send : sudo apt-get install notify-osd
+[graphviz](http://www.graphviz.org/)    : sudo apt-get install graphviz
+[fim](http://manpages.ubuntu.com/manpages/xenial/man1/fim.1.html)         : sudo apt-get install fim
+[zenity](https://packages.ubuntu.com/trusty/gnome/zenity)    : sudo apt-get install zenity
+[sl](http://manpages.ubuntu.com/manpages/trusty/man6/sl.6.html)          : sudo apt-get install sl
+[notify-send](http://manpages.ubuntu.com/manpages/xenial/man1/notify-send.1.html) : sudo apt-get install notify-osd
 ```
 ## Built With
 
