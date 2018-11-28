@@ -1,27 +1,15 @@
-# MetroWorksDS
-MetroWorks! - Data Structures Project (Semester 3) 
-
-### Data Structure Used- Graphs
-
-### Algorithm Implemented- Djikstra's Shortest Path Algorithm
-
-- [Algorithm to print all nodes between Source to Destination using Dijkstras](https://stackoverflow.com/questions/28998597/how-to-save-shortest-path-in-dijkstra-algorithm)
-
-### Current Delhi Metro Stations included in our Program
-![Delhi Metro Stations](https://raw.githubusercontent.com/rapport4/MetroWorksDS/master/graph.png)
-
 
 # MetroWorksDS
 
-An application meant for Linux users, It helps you find & visualize the Shortest Path between Delhi Metro Stations.
+An application meant for linux users, It helps you find & visualize the Shortest Path between Delhi Metro Stations, it uses graph data structure & Dijkstra's Algorithm.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Compile metroworks.cpp using -std=c++11 flag.
 
 ### Prerequisites
 
-C++ 11
+C++11
 
 Dependencies
 ```
@@ -62,7 +50,6 @@ notify-send : sudo apt-get install notify-osd
 * **Aman Verma** - [nightwarrior-xxx](https://github.com/nightwarrior-xxx)
 * **Aditya Raushan** - [araushan](https://github.com/araushan)
 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
@@ -71,5 +58,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * [DMRC](http://www.delhimetrorail.com/)
 * [Wikipeda](https://www.wikipedia.org/)
+
+### Current Delhi Metro Stations (In our Program)
+![Delhi Metro Stations](https://raw.githubusercontent.com/rapport4/MetroWorksDS/master/graph.png)
 
 
