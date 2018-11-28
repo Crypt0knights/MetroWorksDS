@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [DMRC](http://www.delhimetrorail.com/)
-* [Wikipeda](https://www.wikipedia.org/)
+* [Wikipedia](https://www.wikipedia.org/)
 
 ### Current Delhi Metro Stations (In our Program)
 ![Delhi Metro Stations](https://raw.githubusercontent.com/rapport4/MetroWorksDS/master/graph.png)
